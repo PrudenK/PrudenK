@@ -1,16 +1,29 @@
-## Hi there 👋
+## ¡Hola! Soy Pruden.
+___
+📚 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
+___
+Como programador mis puntos fuertes son el backend y la lógica además se me dan bien las bases de datos. En mis primeros meses programando hice una Calculadora en javaFx (disponible en mi github) y actualmente estoy trabajando en una aplicación con Android Studio que pronto estará en la Play Store. 
+___
+## Lenguajes y conocimientos
+___
+# Lenguajes
+- Java
+- Python
+- Kotlin (Android)
+- C#
+- PHP
+- Jetpack Compose (Android)
+  
+# Bases de datos
+- SQL
+- MySQL
+- PL/SQL
 
-<!--
-**PrudenK/PrudenK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ORMs y frameworks
+- Hibernate
+- Symphony
+- Flask
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Otros
+- Docker
+- Git
