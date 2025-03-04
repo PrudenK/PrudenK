@@ -1,4 +1,4 @@
-## ¡Hola! Soy Pruden.
+# ¡Hola! Soy Pruden.
 ___
 📚 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
 ___
@@ -6,7 +6,7 @@ Como programador mis puntos fuertes son el backend y la lógica además se me da
 ___
 ## Lenguajes y conocimientos
 ___
-# Lenguajes
+### Lenguajes
 - Java
 - Python
 - Kotlin (Android)
@@ -14,16 +14,16 @@ ___
 - PHP
 - Jetpack Compose (Android)
   
-# Bases de datos
+### Bases de datos
 - SQL
 - MySQL
 - PL/SQL
 
-# ORMs y frameworks
+### ORMs y frameworks
 - Hibernate
 - Symphony
 - Flask
 
-# Otros
+### Otros
 - Docker
 - Git
