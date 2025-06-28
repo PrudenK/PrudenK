@@ -1,4 +1,4 @@
-# ¡Hola 👋! Soy Pruden Costa Iniesta
+# ¡Hola 👋! Soy Pruden Costa
 ___
 * Técnico superior en desarrollo de aplicaciones multiplataforma (DAM)
 * Estudiante de ingeniería informática en la UPV
