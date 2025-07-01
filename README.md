@@ -49,4 +49,4 @@ ___
 Wakatime Stats 
 --------------------------------------------------
 (Desde el 11-06-2025)
-![Estadisticas de lenguajes utilizados](https://wakatime.com/share/@Pruden/1bfb1d52-ffec-4aba-b7c5-c289e27840a5.svg)
+![Estadisticas de lenguajes utilizados](https://wakatime.com/share/@Pruden/35509152-d8b3-4df0-ae3d-e29fc65ca9bf.svg)
