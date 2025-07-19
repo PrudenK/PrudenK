@@ -50,3 +50,10 @@ Wakatime Stats
 --------------------------------------------------
 (Desde el 11-06-2025)
 ![Estadisticas de lenguajes utilizados](https://wakatime.com/share/@Pruden/35509152-d8b3-4df0-ae3d-e29fc65ca9bf.svg)
+
+<p align="center">
+<a href="https://github.com/TU_USUARIO">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
