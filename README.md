@@ -22,11 +22,12 @@ ___
 ---
 
 ### ⚙️ ORMs y frameworks
-[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
-[![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![JavaFX](https://img.shields.io/badge/JavaFX-5586A4?style=for-the-badge&logo=java&logoColor=white)](https://openjfx.io/)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
 [![Ktor](https://img.shields.io/badge/Ktor-0A0F23?style=for-the-badge&logoColor=white)](https://ktor.io/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
 
 ---
 
@@ -46,6 +47,41 @@ ___
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
+## 🧩 Estos son algunos de mis proyectos
+
+### 📱 Android
+- ✅ [Habit-Tracker](https://github.com/PrudenK/Habit-Tracker) — App de hábitos con `Jetpack Views`.
+
+---
+
+### ♟️ Web Scraping
+- 📊 [BaseInfo65](https://github.com/PrudenK/BaseInfo65) — Web scraping y procesamiento de datos en `Info64`.
+- 🔍 [YottaScraper](https://github.com/PrudenK/YottaScraper) — Web scraping en `YottaChess` con Selenium.
+- 📰 [TheweekinchessScraper](https://github.com/PrudenK/TheweekinchessScraper) — Web scraping en `TWIC`.
+
+---
+
+### 🎓 TFG 2º DAM
+- 🧱 [CustomBlocks](https://github.com/PrudenK/CustomBlocks) — Cliente en `Kotlin/JavaFX` para CustomBlocks.
+- 💬 [ServerKtorChatClan](https://github.com/PrudenK/ServerKtorChatClan) — Servidor en `Ktor` con chat y modo online.
+- 🧠 [API_CustomBlocks](https://github.com/PrudenK/API_CustomBlocks) — `API REST` principal del ecosistema CustomBlocks.
+- 📡 [API_anuncios](https://github.com/PrudenK/API_anuncios) — `API REST` independiente para gestión de anuncios.
+
+---
+
+### ⚙️ Proyectos en C
+- 🎮 [Ctris](https://github.com/PrudenK/Ctris) — Tetris en `C` para terminal.
+- 🐍 [CSnake](https://github.com/PrudenK/CSnake) — Snake en `C` para terminal.
+- 🧱 [POO-en-C](https://github.com/PrudenK/POO-en-C) — Implementación de `POO` simulada con `C`.
+
+---
+
+### 🧪 Otros
+- 🧮 [Calculadora](https://github.com/PrudenK/Calculadora) — Calculadora científica con interfaz `JavaFX`.
+- 💻 [Terminal_Linux_Python](https://github.com/PrudenK/Terminal_Linux_Python) — Simulación básica de terminal Linux en `Python`.
+
+
+
 📊 Github stats
 --------------------------------------------------
 
@@ -62,7 +98,3 @@ ___
 
 (Desde el 11-06-2025)
 ![Estadisticas de lenguajes utilizados](https://wakatime.com/share/@Pruden/35509152-d8b3-4df0-ae3d-e29fc65ca9bf.svg)
-
-
-
-
