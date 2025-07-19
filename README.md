@@ -46,14 +46,25 @@ ___
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
-Wakatime Stats 
+<details>
+  <summary>📊 Wakatime Stats</summary>
+
+   
 --------------------------------------------------
 (Desde el 11-06-2025)
 ![Estadisticas de lenguajes utilizados](https://wakatime.com/share/@Pruden/35509152-d8b3-4df0-ae3d-e29fc65ca9bf.svg)
+</details>
 
-<p align="center">
-<a href="https://github.com/TU_USUARIO">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrudenK&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PrudenK&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+
+
+<details>
+    <summary>📊 Github Stats</summary>
+  <p align="center">
+  <a href="https://github.com/TU_USUARIO">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrudenK&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PrudenK&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+</details>
+
+
