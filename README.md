@@ -54,6 +54,11 @@ ___
 
 ---
 
+### ⚡ Kotlin Multiplatform / Desktop
+- ♟️ [lichess-analysis-board-kotlin](https://github.com/PrudenK/lichess-analysis-board-kotlin) — Tablero de análisis de ajedrez inspirado en `Lichess`, hecho en `Kotlin`, `Jetpack Compose` (`KMP`).  
+
+---
+
 ### ♟️ Web Scraping
 - 📊 [BaseInfo65](https://github.com/PrudenK/BaseInfo65) — Web scraping y procesamiento de datos de `Info64` con `Java` e `Hibernate`.
 - 🔍 [YottaScraper](https://github.com/PrudenK/YottaScraper) — Web scraping en `YottaChess` con `Selenium`.
