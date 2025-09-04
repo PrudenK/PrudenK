@@ -55,7 +55,7 @@ ___
 ---
 
 ### ⚡ Kotlin Multiplatform / Desktop
-- ♟️ [lichess-analysis-board-kotlin](https://github.com/PrudenK/lichess-analysis-board-kotlin) — Tablero de análisis de ajedrez inspirado en `Lichess`, hecho con `Kotlin` y `Jetpack Compose`.  
+- ♟️ [lichess-analysis-board-kotlin](https://github.com/PrudenK/lichess-analysis-board-kotlin) — Tablero de análisis de ajedrez inspirado en `Lichess`, hecho `Jetpack Compose`.  
 
 ---
 
