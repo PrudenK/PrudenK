@@ -76,7 +76,9 @@ ___
 ---
 
 ### 🦀 Proyectos en Rust
-- 👾 [space-invaders-rs](https://github.com/PrudenK/space-invaders-rs) — Space invaders en `Rust` para terminal. 
+- 👾 [space-invaders-rs](https://github.com/PrudenK/space-invaders-rs) — Space invaders en `Rust` para terminal.
+
+---
 
 ### ⚙️ Proyectos en C
 - 🎮 [Ctris](https://github.com/PrudenK/Ctris) — Tetris en `C` para terminal.
