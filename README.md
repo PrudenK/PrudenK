@@ -103,6 +103,8 @@ ___
   </a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PrudenK&theme=dark)](https://git.io/streak-stats)
+
 
 🧑‍💻 Wakatime Stats
 --------------------------------------------------
