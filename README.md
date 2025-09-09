@@ -6,6 +6,17 @@ ___
 [![wakatime](https://wakatime.com/badge/user/72f82c75-11de-43fd-979a-a5efbf06f882.svg)](https://wakatime.com/@72f82c75-11de-43fd-979a-a5efbf06f882)
 [![Codewars](https://www.codewars.com/users/PrudenK/badges/micro)](https://www.codewars.com/users/PrudenK)
 
+¡Descarga mi primera aplicación para Android desde la Play Store!
+
+<a href="https://play.google.com/store/apps/details?id=com.pruden.habits&hl=es_419">
+  <img src="https://play.google.com/intl/en_us/badges/images/generic/es_badge_web_generic.png" height="60"/>
+</a>
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+<a href="https://github.com/PrudenK/Habit-Tracker">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" height="60"/>
+</a>
+
 ___
 ## 🚀 Lenguajes y conocimientos
 
