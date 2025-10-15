@@ -62,7 +62,7 @@ ___
 ## 🧩 Estos son algunos de mis proyectos
 
 ### 📱 Android
-- ✅ [Habit-Tracker](https://github.com/PrudenK/Habit-Tracker) — App de hábitos con `Jetpack Views`.
+- ✅ [habit-tracker](https://github.com/PrudenK/habit-tracker) — App de hábitos con `Jetpack Views`.
 
 ---
 
@@ -73,13 +73,13 @@ ___
 
 ### ♟️ Web Scraping
 - 📊 [BaseInfo65](https://github.com/PrudenK/BaseInfo65) — Web scraping y procesamiento de datos de `Info64` con `Java` e `Hibernate`.
-- 🔍 [YottaScraper](https://github.com/PrudenK/YottaScraper) — Web scraping en `YottaChess` con `Selenium`.
+- 🔍 [yotta-scraper](https://github.com/PrudenK/yotta-scraper) — Web scraping en `YottaChess` con `Selenium`.
 - 📰 [TheweekinchessScraper](https://github.com/PrudenK/TheweekinchessScraper) — Web scraping en `TWIC`.
 
 ---
 
 ### 🎓 TFG 2º DAM
-- 🧱 [CustomBlocks](https://github.com/PrudenK/CustomBlocks) — Cliente en `Kotlin/JavaFX` para CustomBlocks.
+- 🧱 [custom-blocks-pc](https://github.com/PrudenK/custom-blocks-pc) — Cliente en `Kotlin/JavaFX` para CustomBlocks.
 - 💬 [ServerKtorChatClan](https://github.com/PrudenK/ServerKtorChatClan) — Servidor en `Ktor` con chat y modo online.
 - 🧠 [API_CustomBlocks](https://github.com/PrudenK/API_CustomBlocks) — `API REST` principal del ecosistema CustomBlocks.
 - 📡 [API_anuncios](https://github.com/PrudenK/API_anuncios) — `API REST` independiente para gestión de anuncios.
@@ -92,7 +92,7 @@ ___
 ---
 
 ### ⚙️ Proyectos en C
-- 🎮 [Ctris](https://github.com/PrudenK/Ctris) — Tetris en `C` para terminal.
+- 🎮 [ctris](https://github.com/PrudenK/ctris) — Tetris en `C` para terminal.
 - 🐍 [CSnake](https://github.com/PrudenK/CSnake) — Snake en `C` para terminal.
 - 🧱 [POO-en-C](https://github.com/PrudenK/POO-en-C) — Implementación de `POO` simulada con `C`.
 
