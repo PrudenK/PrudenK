@@ -72,17 +72,17 @@ ___
 ---
 
 ### ♟️ Web Scraping
-- 📊 [BaseInfo65](https://github.com/PrudenK/BaseInfo65) — Web scraping y procesamiento de datos de `Info64` con `Java` e `Hibernate`.
+- 📊 [base-info-65](https://github.com/PrudenK/base-info-65) — Web scraping y procesamiento de datos de `Info64` con `Java` e `Hibernate`.
 - 🔍 [yotta-scraper](https://github.com/PrudenK/yotta-scraper) — Web scraping en `YottaChess` con `Selenium`.
-- 📰 [TheweekinchessScraper](https://github.com/PrudenK/TheweekinchessScraper) — Web scraping en `TWIC`.
+- 📰 [the-week-in-chess-scraper](https://github.com/PrudenK/the-week-in-chess-scraper) — Web scraping en `TWIC`.
 
 ---
 
 ### 🎓 TFG 2º DAM
 - 🧱 [custom-blocks-pc](https://github.com/PrudenK/custom-blocks-pc) — Cliente en `Kotlin/JavaFX` para CustomBlocks.
-- 💬 [ServerKtorChatClan](https://github.com/PrudenK/ServerKtorChatClan) — Servidor en `Ktor` con chat y modo online.
-- 🧠 [API_CustomBlocks](https://github.com/PrudenK/API_CustomBlocks) — `API REST` principal del ecosistema CustomBlocks.
-- 📡 [API_anuncios](https://github.com/PrudenK/API_anuncios) — `API REST` independiente para gestión de anuncios.
+- 💬 [ktor-custom-blocks-pc](https://github.com/PrudenK/ktor-custom-blocks-pc) — Servidor en `Ktor` con chat y modo online.
+- 🧠 [api-custom-blocks-pc](https://github.com/PrudenK/api-custom-blocks-pc) — `API REST` principal del ecosistema CustomBlocks.
+- 📡 [api-anuncios-custom-blocks-pc](https://github.com/PrudenK/api-anuncios-custom-blocks-pc) — `API REST` independiente para gestión de anuncios.
 
 ---
 
@@ -93,14 +93,14 @@ ___
 
 ### ⚙️ Proyectos en C
 - 🎮 [ctris](https://github.com/PrudenK/ctris) — Tetris en `C` para terminal.
-- 🐍 [CSnake](https://github.com/PrudenK/CSnake) — Snake en `C` para terminal.
-- 🧱 [POO-en-C](https://github.com/PrudenK/POO-en-C) — Implementación de `POO` simulada con `C`.
+- 🐍 [csnake](https://github.com/PrudenK/csnake) — Snake en `C` para terminal.
+- 🧱 [poo-en-c](https://github.com/PrudenK/poo-en-c) — Implementación de `POO` simulada con `C`.
 
 ---
 
 ### 🧪 Otros
-- 🧮 [Calculadora](https://github.com/PrudenK/Calculadora) — Calculadora científica con interfaz `JavaFX`.
-- 💻 [Terminal_Linux_Python](https://github.com/PrudenK/Terminal_Linux_Python) — Simulación básica de terminal Linux en `Python`.
+- 🧮 [calculadora-java-fx](https://github.com/PrudenK/calculadora-java-fx) — Calculadora científica con interfaz `JavaFX`.
+- 💻 [terminal-linux-python](https://github.com/PrudenK/terminal-linux-python) — Simulación básica de terminal Linux en `Python`.
 
 
 
