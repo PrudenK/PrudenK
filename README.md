@@ -16,6 +16,7 @@ ___
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-%23ff69b4.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
@@ -67,3 +68,12 @@ ___
 
 ---
 
+### 🎯 Proyectos en C++
+- 💥 [terminal_breakout](https://github.com/PrudenK/terminal_breakout) — Breakout en `C++` para terminal.
+
+---
+
+### 🌐 Desarrollo web
+- 🕸️ [madness-mad-web](https://github.com/PrudenK/madness-mad-web) — Página web de MadnessMad con `astro` y `tailwind`.
+
+---
