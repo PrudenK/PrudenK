@@ -43,7 +43,6 @@ ___
 
 ### ♟️ Web Scraping
 - 📊 [base-info-65](https://github.com/PrudenK/base-info-65) — Web scraping y procesamiento de datos de `Info64` con `Java` e `Hibernate`.
-- 🔍 [yotta-scraper](https://github.com/PrudenK/yotta-scraper) — Web scraping en `YottaChess` con `Selenium`.
 - 📰 [the-week-in-chess-scraper](https://github.com/PrudenK/the-week-in-chess-scraper) — Web scraping en `TWIC`.
 
 ---
